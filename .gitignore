@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+app.db
+*.db
+.env
+kivy_env/
